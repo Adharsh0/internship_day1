@@ -1,0 +1,36 @@
+a{
+    color: green;
+}
+a{
+    text-decoration: none;
+}
+th{
+    color:red
+}
+tr{
+    color:black
+}
+table{
+    border: 1px solid;
+}
+th{
+    border: 1px solid;
+}
+tr{
+    border: 1px solid;
+}
+table{
+    border-collapse: collapse;
+}
+table{
+    width: 50%;
+}
+th{
+    height: 70px;
+}
+tr{
+    height: 70px;
+}
+td{
+    text-align: center;
+}
